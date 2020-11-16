@@ -1,4 +1,4 @@
-package com.javatechie.spring.actuator.api;
+package com.javamaster.spring.actuator.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
